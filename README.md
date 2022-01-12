@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Laurette.
 
-I am a Full-Stack Developer who resides in Nairobi Kenya. I am an agile problem solver and logical thinker who converts problems into solutions using programing and coding. I do test automation with python. It's one of my favourite languages. I'm learning more and more concepts in software development everyday.
+I am a Full-Stack Developer and a tech-savvy who resides in Nairobi Kenya. I am an agile problem solver and logical thinker who converts problems into solutions using programing and coding. I do test automation with python. It's one of my favourite languages. I'm learning more and more concepts in software development everyday.
 
 
 
