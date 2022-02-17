@@ -7,7 +7,6 @@ Communicates productively with both technical and non-technical staff and I am a
 
 
 - 🔭 I’m currently working on a neighbourhood website application.
-- 🌱 I’m currently focusing on test automation using python.
 - 👯 I’m looking to collaborate on projects on Test automation,Front-end development,Backend development, api development.
 - 💬 Ask me about software development, python, Api's,test automation and Angular..
 - 📫 How to reach me: monginalaurette@gmail.com
